@@ -152,9 +152,9 @@ A full-stack, cloud-ready POS application built for mid-sized retail businesses.
 
 <div align="center">
 
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-codebase&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-codebase&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anish-codebase&hide_border=true)
+![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-codebase&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=anish-codebase&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anish-codebase&hide_border=true)
 
 </div>
 
